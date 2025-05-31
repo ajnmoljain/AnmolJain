@@ -24,13 +24,6 @@ The following Google Apps Script functions are used:
 *   `onFormSubmit(e)`: This trigger function is activated when a new form response is submitted. It retrieves the new data and appends it to the designated Google Sheet.
 *   [Optional: If you have other custom functions, describe them here.]
 
-[Optional: You can include a snippet of your Apps Script code here, but be mindful of sensitive information. A high-level explanation is often sufficient.]
 
-Example (Conceptual):
 
-```javascript
-function onFormSubmit(e) {
-  // Get the form response
-  // Get the spreadsheet
-  // Append the new data to the spreadsheet
-}
+
